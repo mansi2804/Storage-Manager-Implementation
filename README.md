@@ -224,5 +224,4 @@ Below are the explanations of the functions used in our code:
 ### 🙏 Gratitude
 
 Thank you for getting involved in this project! Your time is truly appreciated. 🚀 🚀
-
 ---
